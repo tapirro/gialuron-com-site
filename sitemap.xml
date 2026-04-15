@@ -217,6 +217,12 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://gialuron.com/para-cicatrices-acne/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://gialuron.com/para-codigo-de-barras/</loc>
     <lastmod>2026-04-15</lastmod>
     <priority>0.8</priority>
@@ -224,6 +230,12 @@
   </url>
   <url>
     <loc>https://gialuron.com/para-cuello-envejecido/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-cuello-escote/</loc>
     <lastmod>2026-04-15</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
@@ -259,6 +271,18 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://gialuron.com/para-hiperpigmentacion/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-labios-resecos/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://gialuron.com/para-lineas-de-expresion/</loc>
     <lastmod>2026-04-15</lastmod>
     <priority>0.8</priority>
@@ -284,6 +308,12 @@
   </url>
   <url>
     <loc>https://gialuron.com/para-melasma/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-ojeras-oscuras/</loc>
     <lastmod>2026-04-15</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
@@ -437,35 +467,5 @@
     <lastmod>2026-04-15</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-cicatrices-acne/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-ojeras-oscuras/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-cuello-escote/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-hiperpigmentacion/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-labios-resecos/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
