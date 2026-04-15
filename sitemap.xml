@@ -2,278 +2,278 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gialuron.com/</loc>
-    <lastmod>2026-04-05</lastmod>
+    <lastmod>2026-04-15</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://gialuron.com/condiciones/</loc>
-    <lastmod>2026-03-28</lastmod>
+    <lastmod>2026-04-15</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://gialuron.com/condiciones/envejecimiento-cutaneo/</loc>
-    <lastmod>2026-03-29</lastmod>
+    <lastmod>2026-04-15</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://gialuron.com/ingredientes/</loc>
-    <lastmod>2026-03-28</lastmod>
+    <lastmod>2026-04-15</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://gialuron.com/ingredientes/acido-hialuronico/</loc>
-    <lastmod>2026-03-28</lastmod>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/ingredientes/biotina/</loc>
+    <lastmod>2026-04-15</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://gialuron.com/ingredientes/colageno-marino/</loc>
-    <lastmod>2026-03-28</lastmod>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/ingredientes/vitamina-e/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/ingredientes/zinc/</loc>
+    <lastmod>2026-04-15</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://gialuron.com/efectos-secundarios/</loc>
-    <lastmod>2026-03-29</lastmod>
+    <lastmod>2026-04-15</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://gialuron.com/opiniones/</loc>
-    <lastmod>2026-03-29</lastmod>
+    <lastmod>2026-04-15</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://gialuron.com/que-contiene/</loc>
-    <lastmod>2026-03-29</lastmod>
+    <loc>https://gialuron.com/opiniones/arrugas/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/opiniones/flacidez-facial/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/opiniones/manchas-en-la-cara/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/opiniones/piel-seca/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-acne-adulto/</loc>
+    <lastmod>2026-04-15</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://gialuron.com/para-arrugas/</loc>
     <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-manchas-en-la-cara/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-piel-seca/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-flacidez-facial/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-ojeras-y-bolsas/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-marcas-de-acne/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-lineas-de-expresion/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-poros-abiertos/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-piel-opaca/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-surcos-nasogenianos/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-papada/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-estrias/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-rosácea/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-ojeras/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-celulitis/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-acne-adulto/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://gialuron.com/para-caida-de-cabello/</loc>
     <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://gialuron.com/para-envejecimiento-prematuro/</loc>
+    <loc>https://gialuron.com/para-celulitis/</loc>
     <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-unas-debiles/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-piel-deshidratada/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/ingredientes/biotina/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/ingredientes/vitamina-e/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/ingredientes/zinc/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/opiniones/arrugas/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/opiniones/piel-seca/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/opiniones/flacidez-facial/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/opiniones/manchas-en-la-cara/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-patas-de-gallo/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-dermatitis/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-melasma/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-piel-grasa/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-manchas-solares/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-cuello-envejecido/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-piel-madura/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/para-piel-sensible/</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://gialuron.com/para-codigo-de-barras/</loc>
     <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-cuello-envejecido/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-dermatitis/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-envejecimiento-prematuro/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://gialuron.com/para-estrias-corporales/</loc>
     <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-estrias/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-flacidez-facial/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-lineas-de-expresion/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-manchas-en-la-cara/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-manchas-solares/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-marcas-de-acne/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-melasma/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-ojeras-y-bolsas/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-ojeras/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-papada/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-patas-de-gallo/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-piel-deshidratada/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-piel-grasa/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-piel-madura/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-piel-opaca/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-piel-seca/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-piel-sensible/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-poros-abiertos/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-rosácea/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-surcos-nasogenianos/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/para-unas-debiles/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/que-contiene/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <priority>0.5</priority>
+    <changefreq>monthly</changefreq>
   </url>
 </urlset>
