@@ -541,6 +541,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://gialuron.com/condiciones/acne-adulto-mujeres/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://gialuron.com/condiciones/acne-adulto/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -561,6 +567,12 @@
   <url>
     <loc>https://gialuron.com/condiciones/caida-de-cabello/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/condiciones/celulitis-tratamiento/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -751,6 +763,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://gialuron.com/condiciones/manchas-solares-y-mascarillas/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://gialuron.com/condiciones/manchas-solares/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -783,6 +801,12 @@
   <url>
     <loc>https://gialuron.com/condiciones/ojeras-oscuras/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/condiciones/ojeras-y-bolsas-tratamiento/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -939,6 +963,12 @@
   <url>
     <loc>https://gialuron.com/condiciones/piel-y-estres-cronico/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/condiciones/piel-y-estres-laboral/</loc>
+    <lastmod>2026-04-17</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
