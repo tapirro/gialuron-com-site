@@ -289,6 +289,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://gialuron.com/ingrediente/acido-folico/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://gialuron.com/ingrediente/acido-hialuronico/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.7</priority>
@@ -297,6 +303,12 @@
   <url>
     <loc>https://gialuron.com/ingrediente/aloe-vera/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/ingrediente/calcio/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -319,6 +331,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://gialuron.com/ingrediente/cromo/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://gialuron.com/ingrediente/extracto-de-granada/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.7</priority>
@@ -327,6 +345,12 @@
   <url>
     <loc>https://gialuron.com/ingrediente/granada/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/ingrediente/hierro/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -357,6 +381,12 @@
   <url>
     <loc>https://gialuron.com/ingrediente/peptidos-de-cobre/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/ingrediente/potasio/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -541,6 +571,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://gialuron.com/condiciones/arrugas-prematuras/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://gialuron.com/condiciones/arrugas/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -711,6 +747,12 @@
   <url>
     <loc>https://gialuron.com/condiciones/fotodano-solar-peru/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/condiciones/fotoenvejecimiento/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1039,7 +1081,19 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://gialuron.com/condiciones/poros-dilatados/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://gialuron.com/condiciones/psoriasis/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/condiciones/queratosis-pilaris/</loc>
     <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -1069,6 +1123,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://gialuron.com/condiciones/urticaria-cronica/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/condiciones/vitiligo/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://gialuron.com/efectos-secundarios/</loc>
     <lastmod>2026-04-15</lastmod>
     <priority>0.5</priority>
@@ -1079,35 +1145,5 @@
     <lastmod>2026-04-15</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://gialuron.com/ingrediente/acido-folico/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/ingrediente/hierro/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/ingrediente/calcio/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/ingrediente/potasio/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/ingrediente/cromo/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
