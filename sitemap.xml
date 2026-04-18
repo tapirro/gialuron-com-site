@@ -685,8 +685,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://gialuron.com/condiciones/dermatitis-de-contacto/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://gialuron.com/condiciones/dermatitis/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/condiciones/dermatosis-por-estres/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -711,6 +723,12 @@
   <url>
     <loc>https://gialuron.com/condiciones/envejecimiento-prematuro/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/condiciones/esclerodermia-cutanea/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -763,6 +781,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://gialuron.com/condiciones/impetigo/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/condiciones/intertrigo/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://gialuron.com/condiciones/labios-resecos/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -783,6 +813,18 @@
   <url>
     <loc>https://gialuron.com/condiciones/lineas-de-marioneta/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/condiciones/liquen-plano/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/condiciones/lupus-cutaneo/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -849,6 +891,12 @@
   <url>
     <loc>https://gialuron.com/condiciones/melasma/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/condiciones/molusco-contagioso/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1069,6 +1117,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://gialuron.com/condiciones/pitiriasis-rosada/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://gialuron.com/condiciones/poros-abiertos/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1087,7 +1141,25 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://gialuron.com/condiciones/prurito-generalizado/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://gialuron.com/condiciones/psoriasis/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/condiciones/queloides/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/condiciones/quemaduras-solares/</loc>
     <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -1117,6 +1189,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://gialuron.com/condiciones/tinea-corporis/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://gialuron.com/condiciones/unas-debiles/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1129,7 +1207,19 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://gialuron.com/condiciones/verrugas-vulgares/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://gialuron.com/condiciones/vitiligo/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/condiciones/xerosis/</loc>
     <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
@@ -1145,95 +1235,5 @@
     <lastmod>2026-04-15</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/dermatitis-de-contacto/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/liquen-plano/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/molusco-contagioso/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/pitiriasis-rosada/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/dermatosis-por-estres/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/impetigo/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/esclerodermia-cutanea/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/lupus-cutaneo/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/quemaduras-solares/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/xerosis/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/prurito-generalizado/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/queloides/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/verrugas-vulgares/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/tinea-corporis/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/intertrigo/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
