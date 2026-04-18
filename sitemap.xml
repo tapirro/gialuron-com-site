@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>https://gialuron.com/opiniones/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.8</priority>
     <changefreq>weekly</changefreq>
   </url>
@@ -434,7 +434,7 @@
   </url>
   <url>
     <loc>https://gialuron.com/ingredientes/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -518,7 +518,7 @@
   </url>
   <url>
     <loc>https://gialuron.com/condiciones/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -531,6 +531,12 @@
   <url>
     <loc>https://gialuron.com/condiciones/acne-adulto/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/condiciones/acne-hormonal/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -589,6 +595,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://gialuron.com/condiciones/cicatrices/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://gialuron.com/condiciones/codigo-de-barras/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -631,8 +643,20 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://gialuron.com/condiciones/dermatitis-atopica/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://gialuron.com/condiciones/dermatitis/</loc>
     <lastmod>2026-04-16</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/condiciones/eczema/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1015,6 +1039,18 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://gialuron.com/condiciones/psoriasis/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/condiciones/rosacea/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://gialuron.com/condiciones/rosácea/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1043,41 +1079,5 @@
     <lastmod>2026-04-15</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/acne-hormonal/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/rosacea/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/dermatitis-atopica/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/psoriasis/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/eczema/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/condiciones/cicatrices/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
