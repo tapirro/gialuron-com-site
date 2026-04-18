@@ -349,6 +349,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://gialuron.com/ingrediente/omega-3/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://gialuron.com/ingrediente/peptidos-de-cobre/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -362,6 +368,18 @@
   </url>
   <url>
     <loc>https://gialuron.com/ingrediente/rosa-mosqueta/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/ingrediente/selenio/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://gialuron.com/ingrediente/silicio-organico/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -1025,23 +1043,5 @@
     <lastmod>2026-04-15</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://gialuron.com/ingrediente/selenio/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/ingrediente/omega-3/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gialuron.com/ingrediente/silicio-organico/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
